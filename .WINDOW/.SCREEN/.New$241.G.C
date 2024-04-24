@@ -1,0 +1,8 @@
+it'\.S6.FREE'\;
+.HANG.1;
+.HANG.2;
+.HANG.3;
+.HANG.4;
+.HANG.5;
+.HANG.6;
+NVA6S;
